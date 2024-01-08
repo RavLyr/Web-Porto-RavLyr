@@ -529,6 +529,7 @@ svg {
 }
 .contact__input{
   background-color: var(--container-color);
+  color: var(--title-color);
   border-radius: .5rem;
   padding: 1rem 1.25rem;
 }
